@@ -1,12 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Dirt&display=swap');
+
 nav {
   display: flex;
   justify-content: center;
+  margin: 25px;
+  margin-bottom: 155px;
 }
 a {
   margin: 5px;
 }
 
-nav {
-  margin: 25px;
-  margin-bottom: 75px;
+.text-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 400px;
+  font-family: 'Rubik Dirt', cursive;
+  font-size: 45px;
 }
