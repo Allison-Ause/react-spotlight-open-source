@@ -6,7 +6,7 @@ export default function AnimalTable() {
   return (
     <div>
       <h1>Oh-ho! Fancy Animals!</h1>
-      <Table data={animalData}>
+      <Table data={animalData} height={500}>
         <Column width={220} fixed resizable>
           <HeaderCell>Animal</HeaderCell>
           <Cell dataKey="animal" />
