@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "animal": "Toddy cat",
+    "locale": "Panama",
+    "color": "Mauv",
+    "fave_movie": "Wedding Gift, The"
+  },
+  {
+    "id": 2,
+    "animal": "Dolphin, common",
+    "locale": "Armenia",
+    "color": "Red",
+    "fave_movie": "I Am Not a Hipster"
+  },
+  {
+    "id": 3,
+    "animal": "Deer, spotted",
+    "locale": "China",
+    "color": "Aquamarine",
+    "fave_movie": "Joe"
+  },
+  {
+    "id": 4,
+    "animal": "Long-billed cockatoo",
+    "locale": "France",
+    "color": "Yellow",
+    "fave_movie": "House of Mirth, The"
+  },
+  {
+    "id": 5,
+    "animal": "Ring-tailed lemur",
+    "locale": "Indonesia",
+    "color": "Aquamarine",
+    "fave_movie": "Alone (Issiz adam)"
+  },
+  {
+    "id": 6,
+    "animal": "Bustard, kori",
+    "locale": "Philippines",
+    "color": "Indigo",
+    "fave_movie": "Boyhood"
+  },
+  {
+    "id": 7,
+    "animal": "Otter, canadian river",
+    "locale": "China",
+    "color": "Orange",
+    "fave_movie": "Lady Liberty"
+  },
+  {
+    "id": 8,
+    "animal": "Phascogale, red-tailed",
+    "locale": "Russia",
+    "color": "Maroon",
+    "fave_movie": "Milky Way (Tejút)"
+  },
+  {
+    "id": 9,
+    "animal": "Long-billed corella",
+    "locale": "China",
+    "color": "Goldenrod",
+    "fave_movie": "Giallo"
+  },
+  {
+    "id": 10,
+    "animal": "Greater sage grouse",
+    "locale": "China",
+    "color": "Maroon",
+    "fave_movie": "Millennium Mambo (Qian xi man po)"
+  },
+  {
+    "id": 11,
+    "animal": "North American red fox",
+    "locale": "Colombia",
+    "color": "Maroon",
+    "fave_movie": "Baron Blood (Orrori del castello di Norimberga, Gli)"
+  },
+  {
+    "id": 12,
+    "animal": "Denham's bustard",
+    "locale": "Thailand",
+    "color": "Khaki",
+    "fave_movie": "52 Pick-Up"
+  },
+  {
+    "id": 13,
+    "animal": "Coatimundi, white-nosed",
+    "locale": "China",
+    "color": "Indigo",
+    "fave_movie": "Beloved/Friend (a.k.a. Amigo/Amado) (Amic/Amat)"
+  },
+  {
+    "id": 14,
+    "animal": "Fox, north american red",
+    "locale": "Cameroon",
+    "color": "Yellow",
+    "fave_movie": "Some Girls"
+  },
+  {
+    "id": 15,
+    "animal": "Plover, three-banded",
+    "locale": "Indonesia",
+    "color": "Orange",
+    "fave_movie": "Fracture"
+  },
+  {
+    "id": 16,
+    "animal": "Black curlew",
+    "locale": "Belgium",
+    "color": "Teal",
+    "fave_movie": "Fear X"
+  },
+  {
+    "id": 17,
+    "animal": "Great white pelican",
+    "locale": "Panama",
+    "color": "Goldenrod",
+    "fave_movie": "Looking for Lenny "
+  },
+  {
+    "id": 18,
+    "animal": "Grenadier, common",
+    "locale": "Spain",
+    "color": "Khaki",
+    "fave_movie": "Riviera"
+  },
+  {
+    "id": 19,
+    "animal": "Tiger cat",
+    "locale": "Bulgaria",
+    "color": "Yellow",
+    "fave_movie": "American: The Bill Hicks Story"
+  },
+  {
+    "id": 20,
+    "animal": "White rhinoceros",
+    "locale": "China",
+    "color": "Violet",
+    "fave_movie": "Delirious"
+  },
+  {
+    "id": 21,
+    "animal": "Cormorant (unidentified)",
+    "locale": "Indonesia",
+    "color": "Blue",
+    "fave_movie": "Tactical Force"
+  },
+  {
+    "id": 22,
+    "animal": "Kangaroo, jungle",
+    "locale": "Mexico",
+    "color": "Khaki",
+    "fave_movie": "R-Point (Arpointeu)"
+  },
+  {
+    "id": 23,
+    "animal": "Columbian rainbow boa",
+    "locale": "China",
+    "color": "Indigo",
+    "fave_movie": "Delta"
+  },
+  {
+    "id": 24,
+    "animal": "Squirrel, smith's bush",
+    "locale": "Zimbabwe",
+    "color": "Orange",
+    "fave_movie": "Mumford"
+  },
+  {
+    "id": 25,
+    "animal": "Red and blue macaw",
+    "locale": "Brazil",
+    "color": "Yellow",
+    "fave_movie": "Life of Reilly, The"
+  },
+  {
+    "id": 26,
+    "animal": "Vulture, griffon",
+    "locale": "United States",
+    "color": "Khaki",
+    "fave_movie": "Big Momma's House 2"
+  },
+  {
+    "id": 27,
+    "animal": "Siskin, pine",
+    "locale": "Indonesia",
+    "color": "Teal",
+    "fave_movie": "Flying Scotsman, The"
+  },
+  {
+    "id": 28,
+    "animal": "Cormorant, little",
+    "locale": "Ukraine",
+    "color": "Yellow",
+    "fave_movie": "Monsieur Verdoux"
+  },
+  {
+    "id": 29,
+    "animal": "Mallard",
+    "locale": "Denmark",
+    "color": "Khaki",
+    "fave_movie": "Jeremy"
+  },
+  {
+    "id": 30,
+    "animal": "Gaur",
+    "locale": "Morocco",
+    "color": "Yellow",
+    "fave_movie": "Starlift"
+  },
+  {
+    "id": 31,
+    "animal": "Huron",
+    "locale": "Indonesia",
+    "color": "Mauv",
+    "fave_movie": "Modify "
+  },
+  {
+    "id": 32,
+    "animal": "Sheep, stone",
+    "locale": "China",
+    "color": "Aquamarine",
+    "fave_movie": "On the Beach"
+  },
+  {
+    "id": 33,
+    "animal": "Lappet-faced vulture",
+    "locale": "Philippines",
+    "color": "Pink",
+    "fave_movie": "World, The (Shijie)"
+  },
+  {
+    "id": 34,
+    "animal": "African jacana",
+    "locale": "Russia",
+    "color": "Fuscia",
+    "fave_movie": "Return to Peyton Place"
+  },
+  {
+    "id": 35,
+    "animal": "Booby, blue-faced",
+    "locale": "China",
+    "color": "Aquamarine",
+    "fave_movie": "Michael"
+  },
+  {
+    "id": 36,
+    "animal": "Heron, little",
+    "locale": "United States",
+    "color": "Violet",
+    "fave_movie": "The Amazing Screw-On Head"
+  },
+  {
+    "id": 37,
+    "animal": "Butterfly, tropical buckeye",
+    "locale": "Indonesia",
+    "color": "Aquamarine",
+    "fave_movie": "Reindeerspotting - Pako joulumaasta"
+  },
+  {
+    "id": 38,
+    "animal": "Spotted wood sandpiper",
+    "locale": "Canada",
+    "color": "Maroon",
+    "fave_movie": "In A Day"
+  },
+  {
+    "id": 39,
+    "animal": "Goldeneye, barrows",
+    "locale": "Indonesia",
+    "color": "Yellow",
+    "fave_movie": "Born to Fight"
+  },
+  {
+    "id": 40,
+    "animal": "Raven, cape",
+    "locale": "China",
+    "color": "Yellow",
+    "fave_movie": "O"
+  }
+]

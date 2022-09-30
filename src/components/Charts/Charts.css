@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Dirt&display=swap');
+
+.charts {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+h2 {
+  font-family: 'Rubik Dirt', cursive;
+  font-size: 60px;
+}
+
+h1 {
+  font-family: 'Rubik Dirt', cursive;
+  font-size: 45px;
+}
+
+.summary {
+  display: flex;
+  margin: 45px;
+  padding: 25px;
+  justify-items: center;
+  align-items: center;
+}
+
+.label {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  margin-top: -40px;
+  margin-bottom: 35px;
+}
